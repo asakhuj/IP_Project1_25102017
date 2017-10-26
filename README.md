@@ -7,3 +7,5 @@ Final version
 2) Project1_Report.pdf contains the details of the message formats used in the code
 
 3) The .java files(8 files) contains the source code.
+
+4) Follow the proj1.pdf to read the description about the project.
